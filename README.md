@@ -4,10 +4,12 @@
 
 ### Why are we creating this toolkit?
 
-*Data ethics (encompassing wide range of activities: data collection, community relationships, collaboration logistics; all phases of the data life cycle) are not prioritized/incentivized in research. 
-*Lack of consistent training/guidance at graduate level.
+* Data ethics (encompassing wide range of activities: data collection, community relationships, collaboration logistics; all phases of the data life cycle) are not prioritized/incentivized
 
-*We want to promote/advance/support/implement ethical data practices, but many of us don’t have the knowledge/resources/support to start. How do we acknowledge and accept where we are and take immediate actions to help us get to where we want to go?
+* We lack consistent training/guidance in academic, non-profit, and governmental organizations
+
+* There is a lack of clarity in taking general first principles to operational actions in the context of project specific needs.
+
 
 These problems @ acadmemic/state/non-profit/industry...
 
@@ -16,4 +18,8 @@ These problems @ acadmemic/state/non-profit/industry...
 
 We acknowledge that one solution will not work for all - we need a suite of solutions and resources that people can choose from to customize to their needs.
 
-Below, we provide an initial list of links...
+Below, we provide an initial list of links of data ethics resources that we, as a community, have used in our own research or teaching projects.
+
+### Data Ethics Resources
+
+*FILL IN LINKS*
