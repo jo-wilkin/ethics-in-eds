@@ -1,6 +1,6 @@
 # Ethics in Environmental Data Science: A Toolkit For Graduates?
 
-*This toolkit has been created as part of the Environmental Data Science Summit hosted by the National Centre for Ecological Analysis and Synthesis in Santa Barbara, February 2023.
+*This toolkit has been created as part of the Environmental Data Science Summit hosted by the National Centre for Ecological Analysis and Synthesis in Santa Barbara, February 2023. We thank NCEAS and NSF for their support in the summit!*
 
 ### Why are we creating this toolkit?
 
